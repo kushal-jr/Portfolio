@@ -9,10 +9,11 @@ Hi welcome to my repo,
 </br>
 
 ## -Content 📃
-The contents in the portfolio follows like
--About me 
--Skills
--Works
+The contents in the portfolio follows like</br>
+
+-About me </br>
+-Skills </br>
+-Works </br>
 -Contact
 
 </br>
